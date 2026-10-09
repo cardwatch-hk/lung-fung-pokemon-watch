@@ -1,0 +1,43 @@
+name: Lung Fung Pokemon Watch
+on:
+  schedule:
+    - cron: '2-59/5 * * * *'
+  workflow_dispatch:
+    inputs:
+      test_email:
+        description: 'Create one deduplicated TEST issue to verify GitHub email'
+        type: boolean
+        default: false
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: lung-fung-watch
+  cancel-in-progress: false
+jobs:
+  monitor:
+    if: github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4, verified official tag
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5, verified official tag
+        with:
+          python-version: '3.12'
+      - name: Install small pinned dependencies
+        run: python -m pip install --disable-pip-version-check -r requirements.txt
+      - name: Run behavior tests
+        run: python -m unittest discover -s tests -v
+      - name: Check shop and deliver pending notifications
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          TEST_EMAIL: ${{ inputs.test_email }}
+        run: |
+          if [ "$TEST_EMAIL" = "true" ]; then
+            python monitor.py --test-alert
+          else
+            python monitor.py
+          fi
