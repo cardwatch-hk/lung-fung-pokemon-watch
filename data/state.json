@@ -2,7 +2,22 @@
   "delivered": [],
   "heartbeat": "2026-10-09",
   "initialized": true,
-  "outbox": [],
+  "outbox": [
+    {
+      "after": {
+        "name": "Email 測試（唔係補貨通知）",
+        "price": null,
+        "stock": "unknown",
+        "url": "https://eshop.lungfung.hk/brand/pokemon/"
+      },
+      "before": null,
+      "id": "setup-test-v1",
+      "kinds": [
+        "test"
+      ],
+      "observed_at": "2026-10-09T14:00:54.388125+00:00"
+    }
+  ],
   "products": {
     "https://eshop.lungfung.hk/product/msn260227/": {
       "name": "寶可夢綠寶石風暴原盒卡盒 M6 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
