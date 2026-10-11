@@ -11,7 +11,22 @@
   ],
   "heartbeat": "2026-10-11",
   "initialized": true,
-  "outbox": [],
+  "outbox": [
+    {
+      "after": {
+        "name": "寶可夢30週年頂級牌組組合 – 太陽伊布 & 月亮伊布  (預計10月16日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消)",
+        "price": "999.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260228oct/"
+      },
+      "before": null,
+      "id": "f6719b6f4b5e9e8eb716",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-10-11T13:13:30.141544+00:00"
+    }
+  ],
   "products": {
     "https://eshop.lungfung.hk/product/msn260218oct/": {
       "name": "寶可夢30週年原盒卡包 M6A  (預計10月16日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消)",
@@ -24,6 +39,12 @@
       "price": "548.00",
       "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260227/"
+    },
+    "https://eshop.lungfung.hk/product/msn260228oct/": {
+      "name": "寶可夢30週年頂級牌組組合 – 太陽伊布 & 月亮伊布  (預計10月16日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消)",
+      "price": "999.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260228oct/"
     },
     "https://eshop.lungfung.hk/product/msn260252/": {
       "name": "POKEMON寶可夢超級進化深淵之曈原盒卡包 M5 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
@@ -135,5 +156,5 @@
     }
   },
   "schema": 1,
-  "sequence": 1
+  "sequence": 2
 }
