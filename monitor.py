@@ -25,7 +25,7 @@ SOURCES = [BASE+'/brand/pokemon/', BASE+'/product-category/pokemon/',
            BASE+'/?'+urlencode({'s':'POKEMON','post_type':'product'}),
            BASE+'/?'+urlencode({'s':'寶可夢','post_type':'product'})]
 POKEMON = re.compile(r'pok[eé]mon|寶可夢|精靈寶可夢|寵物小精靈', re.I)
-TCG = re.compile(r'卡包|卡盒|卡牌|集換|擴充包|補充包|起始套組|套牌|\bTCG\b|card\s*game|booster|deck', re.I)
+TCG = re.compile(r'卡包|卡盒|卡牌|集換|擴充包|補充包|起始套組|套牌|牌組|\bTCG\b|card\s*game|booster|deck', re.I)
 
 def is_tcg_name(name):
     return bool(POKEMON.search(name) and TCG.search(name))
