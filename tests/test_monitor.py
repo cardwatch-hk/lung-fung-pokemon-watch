@@ -14,6 +14,18 @@ def product(price='388.00', stock='in_stock'):
     return dict(url=URL,name='寶可夢 超級交響樂卡包 M1S',price=price,stock=stock)
 
 class ParsingTests(unittest.TestCase):
+    def test_chinese_deck_is_discovered_parsed_and_alerted_once(self):
+        name='寶可夢30週年頂級牌組組合 – 太陽伊布 & 月亮伊布'
+        url='https://eshop.lungfung.hk/product/msn260228oct/'
+        listing=f'<ul class="products"><li class="product"><a href="{url}">{name}</a></li></ul>'
+        self.assertEqual(parse_listing(listing,'https://eshop.lungfung.hk/brand/pokemon/')[0],{url})
+        raw=page(price='<span class="amount">$999.00</span>').replace('寶可夢 超級交響樂卡包 M1S',name)
+        p=parse_product(raw,url)
+        self.assertEqual((p['price'],p['stock']),('999.00','in_stock'))
+        state=evolve(empty_state(),[product()],'2026-10-11')
+        state=evolve(state,[product(),p],'2026-10-11')
+        self.assertEqual(state['outbox'][0]['kinds'],['new'])
+        self.assertEqual(len(evolve(state,[product(),p],'2026-10-11')['outbox']),1)
     def test_real_lungfung_m1s_summary(self):
         raw=(Path(__file__).parent/'fixtures/lungfung_m1s_summary.html').read_bytes()
         p=parse_product(raw,'https://eshop.lungfung.hk/product/msn260257/')
@@ -133,3 +145,4 @@ class CloudTests(unittest.TestCase):
         self.assertEqual(store.sha,'second')
 
 if __name__=='__main__':unittest.main()
+
