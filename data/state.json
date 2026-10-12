@@ -15,7 +15,125 @@
   ],
   "heartbeat": "2026-10-12",
   "initialized": true,
-  "outbox": [],
+  "outbox": [
+    {
+      "after": {
+        "name": "POKEMON 寶可夢超級進化夢想 EX 原盒卡包 M2A (下單後三個工作天可到店取貨；三件或以上可選順豐速遞，運費到付)",
+        "price": "660.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260254/"
+      },
+      "before": {
+        "name": "POKEMON 寶可夢超級進化夢想 EX 原盒卡包 M2A (下單後三個工作天可到店取貨；三件或以上可選順豐速遞，運費到付)",
+        "price": "660.00",
+        "stock": "out_of_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260254/"
+      },
+      "id": "dbaf75b5e0384730d8d5",
+      "kinds": [
+        "restock"
+      ],
+      "observed_at": "2026-10-12T06:36:46.796210+00:00"
+    },
+    {
+      "after": {
+        "name": "POKEMON 寶可夢超級進化超級勇氣原盒卡包 M1L (下單後三個工作天可到店取貨；三件或以上可選順豐速遞，運費到付)",
+        "price": "438.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260256/"
+      },
+      "before": {
+        "name": "POKEMON 寶可夢超級進化超級勇氣原盒卡包 M1L (下單後三個工作天可到店取貨；三件或以上可選順豐速遞，運費到付)",
+        "price": "438.00",
+        "stock": "out_of_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260256/"
+      },
+      "id": "4dd65f75c2785390f76c",
+      "kinds": [
+        "restock"
+      ],
+      "observed_at": "2026-10-12T06:36:46.796247+00:00"
+    },
+    {
+      "after": {
+        "name": "POKEMON 寶可夢超級進化超級交響樂原盒卡包 M1S (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
+        "price": "398.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260257/"
+      },
+      "before": {
+        "name": "POKEMON 寶可夢超級進化超級交響樂原盒卡包 M1S (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
+        "price": "388.00",
+        "stock": "out_of_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260257/"
+      },
+      "id": "9d35e5b714463e879c54",
+      "kinds": [
+        "restock",
+        "price"
+      ],
+      "observed_at": "2026-10-12T06:36:46.796268+00:00"
+    },
+    {
+      "after": {
+        "name": "POKEMON 寶可夢朱&紫太晶慶典 EX 原盒卡包 SV8A (下單後三個工作天可到店取貨；三件或以上可選順豐速遞，運費到付)",
+        "price": "958.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260261/"
+      },
+      "before": {
+        "name": "POKEMON 寶可夢朱&紫太晶慶典 EX 原盒卡包 SV8A (下單後三個工作天可到店取貨；三件或以上可選順豐速遞，運費到付)",
+        "price": "950.00",
+        "stock": "out_of_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260261/"
+      },
+      "id": "e64f48511bf5b2a85c46",
+      "kinds": [
+        "restock",
+        "price"
+      ],
+      "observed_at": "2026-10-12T06:36:46.796299+00:00"
+    },
+    {
+      "after": {
+        "name": "POKEMON 寶可夢劍&盾匯流藝術原盒卡包 S8 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
+        "price": "2758.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260265/"
+      },
+      "before": {
+        "name": "POKEMON 寶可夢劍&盾匯流藝術原盒卡包 S8 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
+        "price": "2698.00",
+        "stock": "out_of_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260265/"
+      },
+      "id": "af3c686737cae75d4f38",
+      "kinds": [
+        "restock",
+        "price"
+      ],
+      "observed_at": "2026-10-12T06:36:46.796324+00:00"
+    },
+    {
+      "after": {
+        "name": "寶可夢朱&紫151原盒卡包 SV2A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
+        "price": "2408.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260268/"
+      },
+      "before": {
+        "name": "寶可夢朱&紫151原盒卡包 SV2A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
+        "price": "2408.00",
+        "stock": "out_of_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260268/"
+      },
+      "id": "e01d1bd49d28a1ea38f2",
+      "kinds": [
+        "restock"
+      ],
+      "observed_at": "2026-10-12T06:36:46.796349+00:00"
+    }
+  ],
   "products": {
     "https://eshop.lungfung.hk/product/msn260218oct/": {
       "name": "寶可夢30週年原盒卡包 M6A  (預計10月16日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消)",
@@ -50,7 +168,7 @@
     "https://eshop.lungfung.hk/product/msn260254/": {
       "name": "POKEMON 寶可夢超級進化夢想 EX 原盒卡包 M2A (下單後三個工作天可到店取貨；三件或以上可選順豐速遞，運費到付)",
       "price": "660.00",
-      "stock": "out_of_stock",
+      "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260254/"
     },
     "https://eshop.lungfung.hk/product/msn260255/": {
@@ -62,13 +180,13 @@
     "https://eshop.lungfung.hk/product/msn260256/": {
       "name": "POKEMON 寶可夢超級進化超級勇氣原盒卡包 M1L (下單後三個工作天可到店取貨；三件或以上可選順豐速遞，運費到付)",
       "price": "438.00",
-      "stock": "out_of_stock",
+      "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260256/"
     },
     "https://eshop.lungfung.hk/product/msn260257/": {
       "name": "POKEMON 寶可夢超級進化超級交響樂原盒卡包 M1S (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
-      "price": "388.00",
-      "stock": "out_of_stock",
+      "price": "398.00",
+      "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260257/"
     },
     "https://eshop.lungfung.hk/product/msn260258/": {
@@ -91,8 +209,8 @@
     },
     "https://eshop.lungfung.hk/product/msn260261/": {
       "name": "POKEMON 寶可夢朱&紫太晶慶典 EX 原盒卡包 SV8A (下單後三個工作天可到店取貨；三件或以上可選順豐速遞，運費到付)",
-      "price": "950.00",
-      "stock": "out_of_stock",
+      "price": "958.00",
+      "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260261/"
     },
     "https://eshop.lungfung.hk/product/msn260262/": {
@@ -109,8 +227,8 @@
     },
     "https://eshop.lungfung.hk/product/msn260265/": {
       "name": "POKEMON 寶可夢劍&盾匯流藝術原盒卡包 S8 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
-      "price": "2698.00",
-      "stock": "out_of_stock",
+      "price": "2758.00",
+      "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260265/"
     },
     "https://eshop.lungfung.hk/product/msn260266/": {
@@ -128,7 +246,7 @@
     "https://eshop.lungfung.hk/product/msn260268/": {
       "name": "寶可夢朱&紫151原盒卡包 SV2A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
       "price": "2408.00",
-      "stock": "out_of_stock",
+      "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260268/"
     },
     "https://eshop.lungfung.hk/product/msn260270/": {
@@ -145,5 +263,5 @@
     }
   },
   "schema": 1,
-  "sequence": 2
+  "sequence": 8
 }
