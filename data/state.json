@@ -37,7 +37,7 @@
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/9"
     }
   ],
-  "heartbeat": "2026-10-12",
+  "heartbeat": "2026-10-13",
   "initialized": true,
   "outbox": [],
   "products": {
@@ -66,7 +66,7 @@
       "url": "https://eshop.lungfung.hk/product/msn260252/"
     },
     "https://eshop.lungfung.hk/product/msn260253/": {
-      "name": "POKEMON 寶可夢超級進化忍者飛旋原盒卡包 M4 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
+      "name": "寶可夢超級進化忍者飛旋原盒卡包 M4 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
       "price": "450.00",
       "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260253/"
@@ -78,19 +78,19 @@
       "url": "https://eshop.lungfung.hk/product/msn260254/"
     },
     "https://eshop.lungfung.hk/product/msn260255/": {
-      "name": "POKEMON 寶可夢超級進化烈獄狂火 X 原盒卡包 M2 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
+      "name": "寶可夢超級進化烈獄狂火 X 原盒卡包 M2 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
       "price": "888.00",
       "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260255/"
     },
     "https://eshop.lungfung.hk/product/msn260256/": {
-      "name": "POKEMON 寶可夢超級進化超級勇氣原盒卡包 M1L (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
+      "name": "寶可夢超級進化超級勇氣原盒卡包 M1L (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
       "price": "438.00",
       "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260256/"
     },
     "https://eshop.lungfung.hk/product/msn260257/": {
-      "name": "POKEMON 寶可夢超級進化超級交響樂原盒卡包 M1S (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
+      "name": "寶可夢超級進化超級交響樂原盒卡包 M1S (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
       "price": "398.00",
       "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260257/"
