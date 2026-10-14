@@ -75,26 +75,15 @@
     {
       "id": "0625e0ba4bdef2a46c8b",
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/19"
+    },
+    {
+      "id": "efc68fe0617e8ef29ba9",
+      "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/20"
     }
   ],
   "heartbeat": "2026-10-14",
   "initialized": true,
-  "outbox": [
-    {
-      "after": {
-        "name": "寶可夢朱&紫火箭隊的榮耀原盒卡包 SV10 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
-        "price": "1178.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260277/"
-      },
-      "before": null,
-      "id": "efc68fe0617e8ef29ba9",
-      "kinds": [
-        "new"
-      ],
-      "observed_at": "2026-10-14T05:35:23.391909+00:00"
-    }
-  ],
+  "outbox": [],
   "products": {
     "https://eshop.lungfung.hk/product/msn260218oct/": {
       "name": "寶可夢30週年原盒卡包 M6A  (預計10月16日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消)",
