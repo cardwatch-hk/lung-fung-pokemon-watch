@@ -43,31 +43,15 @@
     {
       "id": "2173d28962a224d56406",
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/11"
+    },
+    {
+      "id": "94be8c16729049e528fb",
+      "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/12"
     }
   ],
   "heartbeat": "2026-10-14",
   "initialized": true,
   "outbox": [
-    {
-      "after": {
-        "name": "寶可夢朱&紫純白閃焰原盒卡包 SV11W (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
-        "price": "1058.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260259/"
-      },
-      "before": {
-        "name": "寶可夢朱&紫純白閃焰原盒卡包 SV11W (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付)",
-        "price": "1088.00",
-        "stock": "out_of_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260259/"
-      },
-      "id": "94be8c16729049e528fb",
-      "kinds": [
-        "restock",
-        "price"
-      ],
-      "observed_at": "2026-10-14T05:35:23.391795+00:00"
-    },
     {
       "after": {
         "name": "寶可夢朱&紫對戰搭檔原盒卡包 SV9 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
