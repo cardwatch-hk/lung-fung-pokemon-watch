@@ -71,25 +71,15 @@
     {
       "id": "37f534e40ed9c331f095",
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/18"
+    },
+    {
+      "id": "0625e0ba4bdef2a46c8b",
+      "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/19"
     }
   ],
   "heartbeat": "2026-10-14",
   "initialized": true,
   "outbox": [
-    {
-      "after": {
-        "name": "寶可夢超電突圍原盒卡包 SV8 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
-        "price": "1538.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260276/"
-      },
-      "before": null,
-      "id": "0625e0ba4bdef2a46c8b",
-      "kinds": [
-        "new"
-      ],
-      "observed_at": "2026-10-14T05:35:23.391900+00:00"
-    },
     {
       "after": {
         "name": "寶可夢朱&紫火箭隊的榮耀原盒卡包 SV10 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
