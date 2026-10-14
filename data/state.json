@@ -100,7 +100,7 @@
     "https://eshop.lungfung.hk/product/msn260228oct/": {
       "name": "寶可夢30週年頂級牌組組合 – 太陽伊布 & 月亮伊布  (預計10月16日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消)",
       "price": "999.00",
-      "stock": "in_stock",
+      "stock": "out_of_stock",
       "url": "https://eshop.lungfung.hk/product/msn260228oct/"
     },
     "https://eshop.lungfung.hk/product/msn260252/": {
@@ -238,7 +238,7 @@
     "https://eshop.lungfung.hk/product/msn260277/": {
       "name": "寶可夢朱&紫火箭隊的榮耀原盒卡包 SV10 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
       "price": "1178.00",
-      "stock": "in_stock",
+      "stock": "out_of_stock",
       "url": "https://eshop.lungfung.hk/product/msn260277/"
     }
   },
