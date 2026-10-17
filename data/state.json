@@ -103,30 +103,15 @@
     {
       "id": "e6a0828dba86059723c6",
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/26"
+    },
+    {
+      "id": "62648c5a53ffa6ded2d6",
+      "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/27"
     }
   ],
   "heartbeat": "2026-10-17",
   "initialized": true,
   "outbox": [
-    {
-      "after": {
-        "name": "寶可夢綠寶石風暴原盒卡盒 M6 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
-        "price": "568.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260227/"
-      },
-      "before": {
-        "name": "寶可夢綠寶石風暴原盒卡盒 M6 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
-        "price": "548.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260227/"
-      },
-      "id": "62648c5a53ffa6ded2d6",
-      "kinds": [
-        "price"
-      ],
-      "observed_at": "2026-10-17T08:35:44.088599+00:00"
-    },
     {
       "after": {
         "name": "寶可夢超級進化深淵之曈原盒卡包 M5 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
