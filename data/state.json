@@ -99,32 +99,15 @@
     {
       "id": "c1fc7a97ebb056558028",
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/25"
+    },
+    {
+      "id": "e6a0828dba86059723c6",
+      "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/26"
     }
   ],
   "heartbeat": "2026-10-17",
   "initialized": true,
-  "outbox": [
-    {
-      "after": {
-        "name": "寶可夢朱&紫太晶慶典 EX 原盒卡包 SV8A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
-        "price": "958.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260261/"
-      },
-      "before": {
-        "name": "寶可夢朱&紫太晶慶典 EX 原盒卡包 SV8A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
-        "price": "1058.00",
-        "stock": "out_of_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260261/"
-      },
-      "id": "e6a0828dba86059723c6",
-      "kinds": [
-        "restock",
-        "price"
-      ],
-      "observed_at": "2026-10-17T04:15:55.722770+00:00"
-    }
-  ],
+  "outbox": [],
   "products": {
     "https://eshop.lungfung.hk/product/msn260218oct/": {
       "name": "寶可夢30週年原盒卡包 M6A  (預計10月16日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消)",
