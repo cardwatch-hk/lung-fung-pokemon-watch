@@ -183,30 +183,15 @@
     {
       "id": "85a259b27aa5a68b9b68",
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/46"
+    },
+    {
+      "id": "5901f1ec8191ae05df8c",
+      "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/47"
     }
   ],
   "heartbeat": "2026-10-20",
   "initialized": true,
   "outbox": [
-    {
-      "after": {
-        "name": "寶可夢太陽 & 月亮聯手明星大集合原盒卡包 SM12A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
-        "price": "9928.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260270/"
-      },
-      "before": {
-        "name": "寶可夢太陽 & 月亮聯手明星大集合原盒卡包 SM12A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
-        "price": "9998.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260270/"
-      },
-      "id": "5901f1ec8191ae05df8c",
-      "kinds": [
-        "price"
-      ],
-      "observed_at": "2026-10-20T12:09:03.710098+00:00"
-    },
     {
       "after": {
         "name": "寶可夢劍 & 盾伊貝英雄原盒卡包 S6A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
