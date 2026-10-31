@@ -263,25 +263,15 @@
     {
       "id": "20f7974db46c6d6f268e",
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/66"
+    },
+    {
+      "id": "5b80e3e1fc895304d47e",
+      "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/67"
     }
   ],
   "heartbeat": "2026-10-31",
   "initialized": true,
   "outbox": [
-    {
-      "after": {
-        "name": "Pokémon 寶可夢超級進化烈獄狂火 X 原盒卡包 M2 (11月2日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
-        "price": "958.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260255b/"
-      },
-      "before": null,
-      "id": "5b80e3e1fc895304d47e",
-      "kinds": [
-        "new"
-      ],
-      "observed_at": "2026-10-31T13:00:14.523789+00:00"
-    },
     {
       "after": {
         "name": "Pokémon 寶可夢朱&紫太晶慶典 EX 原盒卡包 SV8A (11月2日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
