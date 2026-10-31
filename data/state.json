@@ -267,7 +267,64 @@
   ],
   "heartbeat": "2026-10-31",
   "initialized": true,
-  "outbox": [],
+  "outbox": [
+    {
+      "after": {
+        "name": "Pokémon 寶可夢超級進化烈獄狂火 X 原盒卡包 M2 (11月2日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
+        "price": "958.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260255b/"
+      },
+      "before": null,
+      "id": "5b80e3e1fc895304d47e",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-10-31T13:00:14.523789+00:00"
+    },
+    {
+      "after": {
+        "name": "Pokémon 寶可夢朱&紫太晶慶典 EX 原盒卡包 SV8A (11月2日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
+        "price": "1038.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260261b/"
+      },
+      "before": null,
+      "id": "2cd3cc266582f585910b",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-10-31T13:00:14.523834+00:00"
+    },
+    {
+      "after": {
+        "name": "Pokémon 寶可夢超電突圍原盒卡包 SV8 (11月2日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
+        "price": "1480.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260276b/"
+      },
+      "before": null,
+      "id": "57c0450eb239caba9057",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-10-31T13:00:14.523900+00:00"
+    },
+    {
+      "after": {
+        "name": "Pokémon 寶可夢朱&紫火箭隊的榮耀原盒卡包 SV10 (11月2日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
+        "price": "1298.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260277b/"
+      },
+      "before": null,
+      "id": "7e30beea8ce7f6c7bf5f",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-10-31T13:00:14.523916+00:00"
+    }
+  ],
   "products": {
     "https://eshop.lungfung.hk/product/msn260218b/": {
       "name": "Pokémon 寶可夢30週年原盒卡包 M6A (11月1日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
@@ -329,6 +386,12 @@
       "stock": "out_of_stock",
       "url": "https://eshop.lungfung.hk/product/msn260255/"
     },
+    "https://eshop.lungfung.hk/product/msn260255b/": {
+      "name": "Pokémon 寶可夢超級進化烈獄狂火 X 原盒卡包 M2 (11月2日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
+      "price": "958.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260255b/"
+    },
     "https://eshop.lungfung.hk/product/msn260256/": {
       "name": "寶可夢超級進化超級勇氣原盒卡包 M1L (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
       "price": "438.00",
@@ -364,6 +427,12 @@
       "price": "1098.00",
       "stock": "out_of_stock",
       "url": "https://eshop.lungfung.hk/product/msn260261/"
+    },
+    "https://eshop.lungfung.hk/product/msn260261b/": {
+      "name": "Pokémon 寶可夢朱&紫太晶慶典 EX 原盒卡包 SV8A (11月2日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
+      "price": "1038.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260261b/"
     },
     "https://eshop.lungfung.hk/product/msn260262/": {
       "name": "寶可夢朱&紫閃色寶藏 EX 原盒卡包 SV4A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
@@ -437,13 +506,25 @@
       "stock": "out_of_stock",
       "url": "https://eshop.lungfung.hk/product/msn260276/"
     },
+    "https://eshop.lungfung.hk/product/msn260276b/": {
+      "name": "Pokémon 寶可夢超電突圍原盒卡包 SV8 (11月2日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
+      "price": "1480.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260276b/"
+    },
     "https://eshop.lungfung.hk/product/msn260277/": {
       "name": "寶可夢朱&紫火箭隊的榮耀原盒卡包 SV10 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
       "price": "1178.00",
       "stock": "out_of_stock",
       "url": "https://eshop.lungfung.hk/product/msn260277/"
+    },
+    "https://eshop.lungfung.hk/product/msn260277b/": {
+      "name": "Pokémon 寶可夢朱&紫火箭隊的榮耀原盒卡包 SV10 (11月2日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
+      "price": "1298.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260277b/"
     }
   },
   "schema": 1,
-  "sequence": 65
+  "sequence": 69
 }
