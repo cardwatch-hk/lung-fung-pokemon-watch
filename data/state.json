@@ -299,25 +299,15 @@
     {
       "id": "4b3a4ca1f5a7e5c9dd56",
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/75"
+    },
+    {
+      "id": "f78c4fb8eb4ff42a20e4",
+      "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/76"
     }
   ],
   "heartbeat": "2026-11-04",
   "initialized": true,
   "outbox": [
-    {
-      "after": {
-        "name": "Pokemon 寶可夢30週年頂級牌組組合 – 太陽伊布 & 月亮伊布  (11月4日由日本送出，預計11月9日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
-        "price": "888.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260228c/"
-      },
-      "before": null,
-      "id": "f78c4fb8eb4ff42a20e4",
-      "kinds": [
-        "new"
-      ],
-      "observed_at": "2026-11-04T09:40:04.541828+00:00"
-    },
     {
       "after": {
         "name": "* Pokémon 寶可夢波導探求者原盒卡包 M7 (11月28日由日本送出，預計12月2日可到店取貨；兩件或以上可選順豐速遞，運費到付。訂單一經確認，恕不接受取消及更改取貨方式)(預售產品價格將受市場價格而隨時變動)",
