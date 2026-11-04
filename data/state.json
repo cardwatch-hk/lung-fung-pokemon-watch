@@ -303,25 +303,15 @@
     {
       "id": "f78c4fb8eb4ff42a20e4",
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/76"
+    },
+    {
+      "id": "48808b69700315a36298",
+      "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/77"
     }
   ],
   "heartbeat": "2026-11-04",
   "initialized": true,
   "outbox": [
-    {
-      "after": {
-        "name": "* Pokémon 寶可夢波導探求者原盒卡包 M7 (11月28日由日本送出，預計12月2日可到店取貨；兩件或以上可選順豐速遞，運費到付。訂單一經確認，恕不接受取消及更改取貨方式)(預售產品價格將受市場價格而隨時變動)",
-        "price": "698.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260317/"
-      },
-      "before": null,
-      "id": "48808b69700315a36298",
-      "kinds": [
-        "new"
-      ],
-      "observed_at": "2026-11-04T09:40:04.541927+00:00"
-    },
     {
       "after": {
         "name": "Pokémon 寶可夢綠寶石風暴原盒卡盒 M6 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
