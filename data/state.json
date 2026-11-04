@@ -321,6 +321,20 @@
         "new"
       ],
       "observed_at": "2026-11-04T09:40:04.541927+00:00"
+    },
+    {
+      "after": {
+        "name": "Pokémon 寶可夢綠寶石風暴原盒卡盒 M6 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+        "price": "519.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260227c/"
+      },
+      "before": null,
+      "id": "2d5c4e5efa61e6c8637f",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-11-04T17:30:54.516678+00:00"
     }
   ],
   "products": {
@@ -377,6 +391,12 @@
       "price": "558.00",
       "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260227/"
+    },
+    "https://eshop.lungfung.hk/product/msn260227c/": {
+      "name": "Pokémon 寶可夢綠寶石風暴原盒卡盒 M6 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+      "price": "519.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260227c/"
     },
     "https://eshop.lungfung.hk/product/msn260228b/": {
       "name": "Pokemon 寶可夢30週年頂級牌組組合 – 太陽伊布 & 月亮伊布  (11月4日由日本送出，預計11月9日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
@@ -566,5 +586,5 @@
     }
   },
   "schema": 1,
-  "sequence": 76
+  "sequence": 77
 }
