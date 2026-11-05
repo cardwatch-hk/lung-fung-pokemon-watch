@@ -313,7 +313,7 @@
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/78"
     }
   ],
-  "heartbeat": "2026-11-04",
+  "heartbeat": "2026-11-05",
   "initialized": true,
   "outbox": [],
   "products": {
@@ -560,7 +560,7 @@
     "https://eshop.lungfung.hk/product/msn260317/": {
       "name": "* Pokémon 寶可夢波導探求者原盒卡包 M7 (11月28日由日本送出，預計12月2日可到店取貨；兩件或以上可選順豐速遞，運費到付。訂單一經確認，恕不接受取消及更改取貨方式)(預售產品價格將受市場價格而隨時變動)",
       "price": "698.00",
-      "stock": "in_stock",
+      "stock": "out_of_stock",
       "url": "https://eshop.lungfung.hk/product/msn260317/"
     }
   },
