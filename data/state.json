@@ -371,7 +371,22 @@
   ],
   "heartbeat": "2026-11-12",
   "initialized": true,
-  "outbox": [],
+  "outbox": [
+    {
+      "after": {
+        "name": "Pokémon 寶可夢30週年原盒卡包 M6A (11月17日由日本送出，預計11月21日可到店取貨；兩件或以上可選順豐速遞，運費到付。訂單一經確認，恕不接受取消及更改取貨方式)(預售產品價格將受市場價格而隨時變動）",
+        "price": "1118.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260218po26112759/"
+      },
+      "before": null,
+      "id": "6e962e31b490c3202873",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-11-12T12:36:49.565682+00:00"
+    }
+  ],
   "products": {
     "https://eshop.lungfung.hk/product/msn260218b/": {
       "name": "Pokémon 寶可夢30週年原盒卡包 M6A (11月1日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
@@ -432,6 +447,12 @@
       "price": "1118.00",
       "stock": "out_of_stock",
       "url": "https://eshop.lungfung.hk/product/msn260218po26111907/"
+    },
+    "https://eshop.lungfung.hk/product/msn260218po26112759/": {
+      "name": "Pokémon 寶可夢30週年原盒卡包 M6A (11月17日由日本送出，預計11月21日可到店取貨；兩件或以上可選順豐速遞，運費到付。訂單一經確認，恕不接受取消及更改取貨方式)(預售產品價格將受市場價格而隨時變動）",
+      "price": "1118.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260218po26112759/"
     },
     "https://eshop.lungfung.hk/product/msn260227-b/": {
       "name": "Pokémon 寶可夢綠寶石風暴原盒卡盒 M6 (10月28日由日本送出，預計11月3日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
@@ -705,5 +726,5 @@
     }
   },
   "schema": 1,
-  "sequence": 91
+  "sequence": 92
 }
