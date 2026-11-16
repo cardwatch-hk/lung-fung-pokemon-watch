@@ -383,26 +383,15 @@
     {
       "id": "b565615af31ecaf69691",
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/96"
+    },
+    {
+      "id": "df6b77c0494c274e62ba",
+      "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/97"
     }
   ],
   "heartbeat": "2026-11-16",
   "initialized": true,
-  "outbox": [
-    {
-      "after": {
-        "name": "Pokémon 寶可夢30週年原盒卡包 M6A (11月21日由日本送出，預計11月26日可到店取貨；兩件或以上可選順豐速遞，運費到付。訂單一經確認，恕不接受取消及更改取貨方式)(預售產品價格將受市場價格而隨時變動）",
-        "price": "968.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260218po261116tbc/"
-      },
-      "before": null,
-      "id": "df6b77c0494c274e62ba",
-      "kinds": [
-        "new"
-      ],
-      "observed_at": "2026-11-16T07:56:24.888734+00:00"
-    }
-  ],
+  "outbox": [],
   "products": {
     "https://eshop.lungfung.hk/product/msn260218b/": {
       "name": "Pokémon 寶可夢30週年原盒卡包 M6A (11月1日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
