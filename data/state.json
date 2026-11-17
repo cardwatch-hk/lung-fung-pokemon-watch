@@ -399,25 +399,15 @@
     {
       "id": "021afc89c94fc2060da3",
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/100"
+    },
+    {
+      "id": "b3833ffd24d932c67bfa",
+      "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/101"
     }
   ],
   "heartbeat": "2026-11-17",
   "initialized": true,
   "outbox": [
-    {
-      "after": {
-        "name": "寶可夢朱&紫漆黑伏特原盒卡包 SV11B (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
-        "price": "1158.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260258a/"
-      },
-      "before": null,
-      "id": "b3833ffd24d932c67bfa",
-      "kinds": [
-        "new"
-      ],
-      "observed_at": "2026-11-17T09:03:31.279767+00:00"
-    },
     {
       "after": {
         "name": "Pokémon 寶可夢朱&紫太晶慶典 EX 原盒卡包 SV8A  (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
