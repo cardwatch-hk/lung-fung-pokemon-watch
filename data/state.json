@@ -423,25 +423,15 @@
     {
       "id": "6398ad581d0061297c58",
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/106"
+    },
+    {
+      "id": "e11732933d1b8e28a796",
+      "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/107"
     }
   ],
   "heartbeat": "2026-11-17",
   "initialized": true,
   "outbox": [
-    {
-      "after": {
-        "name": "寶可夢朱&紫151原盒卡包 SV2A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
-        "price": "2388.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260268a/"
-      },
-      "before": null,
-      "id": "e11732933d1b8e28a796",
-      "kinds": [
-        "new"
-      ],
-      "observed_at": "2026-11-17T09:03:31.279896+00:00"
-    },
     {
       "after": {
         "name": "寶可夢太陽 & 月亮聯手明星大集合原盒卡包 SM12A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
