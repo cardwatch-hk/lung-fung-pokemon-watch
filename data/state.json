@@ -419,25 +419,15 @@
     {
       "id": "251cc00999a2ebd531f6",
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/105"
+    },
+    {
+      "id": "6398ad581d0061297c58",
+      "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/106"
     }
   ],
   "heartbeat": "2026-11-17",
   "initialized": true,
   "outbox": [
-    {
-      "after": {
-        "name": "寶可夢朱&紫緋紅薄霧原盒卡包 SV5A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
-        "price": "698.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260267a/"
-      },
-      "before": null,
-      "id": "6398ad581d0061297c58",
-      "kinds": [
-        "new"
-      ],
-      "observed_at": "2026-11-17T09:03:31.279877+00:00"
-    },
     {
       "after": {
         "name": "寶可夢朱&紫151原盒卡包 SV2A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
