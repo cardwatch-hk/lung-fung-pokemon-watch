@@ -435,25 +435,15 @@
     {
       "id": "31533138f1d771e015fa",
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/109"
+    },
+    {
+      "id": "4f2bc2e7ae4fa06685df",
+      "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/110"
     }
   ],
   "heartbeat": "2026-11-17",
   "initialized": true,
   "outbox": [
-    {
-      "after": {
-        "name": "寶可夢25週年原盒卡包 S8A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
-        "price": "2988.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260273a/"
-      },
-      "before": null,
-      "id": "4f2bc2e7ae4fa06685df",
-      "kinds": [
-        "new"
-      ],
-      "observed_at": "2026-11-17T09:03:31.279951+00:00"
-    },
     {
       "after": {
         "name": "Pokémon 寶可夢超電突圍原盒卡包 SV8 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
