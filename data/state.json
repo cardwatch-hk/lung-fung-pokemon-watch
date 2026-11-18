@@ -455,26 +455,15 @@
     {
       "id": "36b474898e57429ba660",
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/114"
+    },
+    {
+      "id": "4f0fa434d700e9b75d3e",
+      "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/115"
     }
   ],
   "heartbeat": "2026-11-18",
   "initialized": true,
-  "outbox": [
-    {
-      "after": {
-        "name": "寶可夢劍 & 盾伊貝英雄原盒卡包 S6A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
-        "price": "6588.00",
-        "stock": "in_stock",
-        "url": "https://eshop.lungfung.hk/product/msn260271po26113971/"
-      },
-      "before": null,
-      "id": "4f0fa434d700e9b75d3e",
-      "kinds": [
-        "new"
-      ],
-      "observed_at": "2026-11-18T17:27:31.947885+00:00"
-    }
-  ],
+  "outbox": [],
   "products": {
     "https://eshop.lungfung.hk/product/msn260218b/": {
       "name": "Pokémon 寶可夢30週年原盒卡包 M6A (11月1日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
