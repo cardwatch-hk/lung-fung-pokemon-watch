@@ -461,9 +461,108 @@
       "issue": "https://github.com/cardwatch-hk/lung-fung-pokemon-watch/issues/115"
     }
   ],
-  "heartbeat": "2026-11-18",
+  "heartbeat": "2026-11-19",
   "initialized": true,
-  "outbox": [],
+  "outbox": [
+    {
+      "after": {
+        "name": "Pokémon 寶可夢綠寶石風暴原盒卡盒 M6 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+        "price": "458.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260227d/"
+      },
+      "before": null,
+      "id": "588a1b9a4b47b30ca3a9",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-11-19T13:33:49.498048+00:00"
+    },
+    {
+      "after": {
+        "name": "寶可夢朱&紫漆黑伏特原盒卡包 SV11B (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+        "price": "1188.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260258b/"
+      },
+      "before": null,
+      "id": "5de3f312a267ffa1adf7",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-11-19T13:33:49.498116+00:00"
+    },
+    {
+      "after": {
+        "name": "寶可夢朱&紫黑炎支配者原盒卡包 SV3 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+        "price": "1028.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260263b/"
+      },
+      "before": null,
+      "id": "3bd23af7786a14ca2a49",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-11-19T13:33:49.498159+00:00"
+    },
+    {
+      "after": {
+        "name": "寶可夢朱&紫緋紅薄霧原盒卡包 SV5A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+        "price": "648.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260267b/"
+      },
+      "before": null,
+      "id": "0a79666fd3ac343dec1c",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-11-19T13:33:49.498188+00:00"
+    },
+    {
+      "after": {
+        "name": "寶可夢朱&紫151原盒卡包 SV2A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+        "price": "2358.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260268po26113971a/"
+      },
+      "before": null,
+      "id": "56b4abd44adebf598488",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-11-19T13:33:49.498208+00:00"
+    },
+    {
+      "after": {
+        "name": "Pokémon 寶可夢超電突圍原盒卡包 SV8 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+        "price": "1398.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260276e/"
+      },
+      "before": null,
+      "id": "318195e795c7b634624a",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-11-19T13:33:49.498250+00:00"
+    },
+    {
+      "after": {
+        "name": "Pokémon 寶可夢朱&紫火箭隊的榮耀原盒卡包 SV10 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+        "price": "1188.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260277e/"
+      },
+      "before": null,
+      "id": "ad58fa549fcfccb1df85",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-11-19T13:33:49.498269+00:00"
+    }
+  ],
   "products": {
     "https://eshop.lungfung.hk/product/msn260218b/": {
       "name": "Pokémon 寶可夢30週年原盒卡包 M6A (11月1日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
@@ -560,6 +659,12 @@
       "price": "519.00",
       "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260227c/"
+    },
+    "https://eshop.lungfung.hk/product/msn260227d/": {
+      "name": "Pokémon 寶可夢綠寶石風暴原盒卡盒 M6 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+      "price": "458.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260227d/"
     },
     "https://eshop.lungfung.hk/product/msn260228b/": {
       "name": "Pokemon 寶可夢30週年頂級牌組組合 – 太陽伊布 & 月亮伊布  (11月4日由日本送出，預計11月9日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
@@ -687,6 +792,12 @@
       "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260258a/"
     },
+    "https://eshop.lungfung.hk/product/msn260258b/": {
+      "name": "寶可夢朱&紫漆黑伏特原盒卡包 SV11B (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+      "price": "1188.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260258b/"
+    },
     "https://eshop.lungfung.hk/product/msn260259/": {
       "name": "寶可夢朱&紫純白閃焰原盒卡包 SV11W (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
       "price": "1188.00",
@@ -747,6 +858,12 @@
       "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260263a/"
     },
+    "https://eshop.lungfung.hk/product/msn260263b/": {
+      "name": "寶可夢朱&紫黑炎支配者原盒卡包 SV3 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+      "price": "1028.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260263b/"
+    },
     "https://eshop.lungfung.hk/product/msn260265/": {
       "name": "寶可夢劍&盾匯流藝術原盒卡包 S8 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
       "price": "3098.00",
@@ -783,6 +900,12 @@
       "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260267a/"
     },
+    "https://eshop.lungfung.hk/product/msn260267b/": {
+      "name": "寶可夢朱&紫緋紅薄霧原盒卡包 SV5A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+      "price": "648.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260267b/"
+    },
     "https://eshop.lungfung.hk/product/msn260268/": {
       "name": "寶可夢朱&紫151原盒卡包 SV2A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
       "price": "2828.00",
@@ -800,6 +923,12 @@
       "price": "2368.00",
       "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260268po26113971/"
+    },
+    "https://eshop.lungfung.hk/product/msn260268po26113971a/": {
+      "name": "寶可夢朱&紫151原盒卡包 SV2A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+      "price": "2358.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260268po26113971a/"
     },
     "https://eshop.lungfung.hk/product/msn260270/": {
       "name": "寶可夢太陽 & 月亮聯手明星大集合原盒卡包 SM12A (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
@@ -879,6 +1008,12 @@
       "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260276d/"
     },
+    "https://eshop.lungfung.hk/product/msn260276e/": {
+      "name": "Pokémon 寶可夢超電突圍原盒卡包 SV8 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+      "price": "1398.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260276e/"
+    },
     "https://eshop.lungfung.hk/product/msn260277/": {
       "name": "寶可夢朱&紫火箭隊的榮耀原盒卡包 SV10 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
       "price": "1178.00",
@@ -902,6 +1037,12 @@
       "price": "1288.00",
       "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260277d/"
+    },
+    "https://eshop.lungfung.hk/product/msn260277e/": {
+      "name": "Pokémon 寶可夢朱&紫火箭隊的榮耀原盒卡包 SV10 (下單後三個工作天可到店取貨；兩件或以上可選順豐速遞，運費到付) (取貨方式任何情況下皆不可更改)",
+      "price": "1188.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260277e/"
     },
     "https://eshop.lungfung.hk/product/msn260317/": {
       "name": "* Pokémon 寶可夢波導探求者原盒卡包 M7 (11月28日由日本送出，預計12月2日可到店取貨；兩件或以上可選順豐速遞，運費到付。訂單一經確認，恕不接受取消及更改取貨方式)(預售產品價格將受市場價格而隨時變動)",
@@ -935,5 +1076,5 @@
     }
   },
   "schema": 1,
-  "sequence": 114
+  "sequence": 121
 }
