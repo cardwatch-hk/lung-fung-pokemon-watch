@@ -527,7 +527,36 @@
   ],
   "heartbeat": "2026-11-26",
   "initialized": true,
-  "outbox": [],
+  "outbox": [
+    {
+      "after": {
+        "name": "Pokémon 寶可夢30週年原盒卡包 M6A (11月30日由日本送出，預計12月4日可到店取貨；兩件或以上可選順豐速遞，運費到付。訂單一經確認，恕不接受取消及更改取貨方式)(預售產品價格將受市場價格而隨時變動）",
+        "price": "909.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260218po261126tbc/"
+      },
+      "before": null,
+      "id": "8b30b3d642d3bce2296e",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-11-26T10:52:08.408353+00:00"
+    },
+    {
+      "after": {
+        "name": "Pokémon 寶可夢波導探求者原盒卡包 M7 (11月30日由日本送出，預計12月4日可到店取貨；兩件或以上可選順豐速遞，運費到付。訂單一經確認，恕不接受取消及更改取貨方式)(預售產品價格將受市場價格而隨時變動)",
+        "price": "479.00",
+        "stock": "in_stock",
+        "url": "https://eshop.lungfung.hk/product/msn260317po261126tbc/"
+      },
+      "before": null,
+      "id": "bf19eb9fa5eab3c84b07",
+      "kinds": [
+        "new"
+      ],
+      "observed_at": "2026-11-26T10:52:08.408505+00:00"
+    }
+  ],
   "products": {
     "https://eshop.lungfung.hk/product/msn260218b/": {
       "name": "Pokémon 寶可夢30週年原盒卡包 M6A (11月1日由日本送出，預計11月5日可到店取貨；兩件或以上可選順豐速遞，運費到付) (預售產品任何情況下皆不可取消) (取貨方式任何情況下皆不可更改)",
@@ -624,6 +653,12 @@
       "price": "936.00",
       "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260218po261125tbc/"
+    },
+    "https://eshop.lungfung.hk/product/msn260218po261126tbc/": {
+      "name": "Pokémon 寶可夢30週年原盒卡包 M6A (11月30日由日本送出，預計12月4日可到店取貨；兩件或以上可選順豐速遞，運費到付。訂單一經確認，恕不接受取消及更改取貨方式)(預售產品價格將受市場價格而隨時變動）",
+      "price": "909.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260218po261126tbc/"
     },
     "https://eshop.lungfung.hk/product/msn260218po26112759/": {
       "name": "Pokémon 寶可夢30週年原盒卡包 M6A (11月17日由日本送出，預計11月21日可到店取貨；兩件或以上可選順豐速遞，運費到付。訂單一經確認，恕不接受取消及更改取貨方式)(預售產品價格將受市場價格而隨時變動）",
@@ -1086,8 +1121,14 @@
       "price": "495.00",
       "stock": "in_stock",
       "url": "https://eshop.lungfung.hk/product/msn260317po261125tbc/"
+    },
+    "https://eshop.lungfung.hk/product/msn260317po261126tbc/": {
+      "name": "Pokémon 寶可夢波導探求者原盒卡包 M7 (11月30日由日本送出，預計12月4日可到店取貨；兩件或以上可選順豐速遞，運費到付。訂單一經確認，恕不接受取消及更改取貨方式)(預售產品價格將受市場價格而隨時變動)",
+      "price": "479.00",
+      "stock": "in_stock",
+      "url": "https://eshop.lungfung.hk/product/msn260317po261126tbc/"
     }
   },
   "schema": 1,
-  "sequence": 130
+  "sequence": 132
 }
